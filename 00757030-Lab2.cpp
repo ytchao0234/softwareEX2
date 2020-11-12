@@ -7,7 +7,7 @@ int main()
 
     bool a = true;
     
-    if( a )
+    if( a == true )
     {
         cout << "a is true" << endl;
     }
